@@ -1,0 +1,7 @@
+topic: ~guessnumber()
+# Defining extra concepts out of words or group of words
+concept:(hello) [hello hi hey "good morning" greetings]
+
+# add a proposal to make Pepper speak first
+
+# add a rule and subrules to ask
